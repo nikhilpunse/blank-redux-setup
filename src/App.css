@@ -1,0 +1,10 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+
+.space{
+  margin-left:12px;
+  margin-right: 12px
+}
